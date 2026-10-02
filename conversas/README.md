@@ -7,4 +7,4 @@ Cada conversa fica em um arquivo próprio, com o conteúdo completo, sem resumos
 
 | # | Arquivo | Título | Assunto |
 |---|---------|--------|---------|
-| 1 | [01-geracao-de-fichas-realiza.md](01-geracao-de-fichas-realiza.md) | GERAÇÃO DE FICHAS REALIZA | _aguardando conteúdo_ |
+| 1 | [01-geracao-de-fichas-realiza.md](01-geracao-de-fichas-realiza.md) | GERAÇÃO DE FICHAS REALIZA | Salvar em PDF as fichas do grupo REALIZA (Chrome); pastas BG/BP/ESCV, arquivos pelo nº do lote |
